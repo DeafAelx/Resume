@@ -37,7 +37,7 @@ github.com/DeafAelx
 3. Финальный дипломный проект – тестирование полноценного веб-сервиса бронирования самоката  
    – Полный цикл: анализ требований → тест-план → тест-кейсы → прогон → отчёт  
 
-Все мои проекты в Google Документах: https://docs.google.com/document/d/1gYOuJUj3Qe1aOPqwlHE5-zP9tsYX3fXMproflbyunuM/edit?tab=t.0
+Все мои проекты есть в Google документе: https://docs.google.com/document/d/1gYOuJUj3Qe1aOPqwlHE5-zP9tsYX3fXMproflbyunuM/edit?tab=t.0
 
 ### Образование
 2024 — 2028  
